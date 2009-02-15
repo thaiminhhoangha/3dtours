@@ -1,0 +1,48 @@
+==========================================================================
+3DTours 2007 License
+==========================================================================
+
+3DTours is free for non-commercial uses.
+If you want to use irrKlang in a commercial product, you need to contact
+the author (3DTours Team) first.
+
+3DTours's documentation and binaries contained within the 
+distributed archive are copyright © 3DTours team 2007.
+
+The contents of the 3DTours distribution archive may not be redistributed, 
+reproduced, modified, transmitted, broadcast, published or adapted in any 
+way, shape or form, without the prior written consent of the owner, 
+3DTours team.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+''AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE REGENTS OR
+CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+--------------------------------------------------------------------------------
+3DTours uses these free libraries:
+- Irrlicht graphic engine: http://irrlicht.sourceforge.net
+- IrrKlang audio engine: http://www.ambiera.com/irrklang
+
+==========================================================================
+Contact
+==========================================================================
+
+  If you have problems, questions or suggestions, please visit the 
+  official blog of the 3DTours team:
+  
+  http://360.yahoo.com/tours3d
+  
+  You will find additional maps, updates, patches, tutorials, and other stuff
+  which will help you out.
+  
+  To contact the authors of the software via email, you can use this address:
+  
+  tours3d@yahoo.com.vn
