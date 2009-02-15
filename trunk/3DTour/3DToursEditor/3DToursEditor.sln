@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DToursEditor", "3DToursEditor\3DToursEditor.csproj", "{BC6D65E1-456D-4FCE-8D03-F4240C92AD89}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "3DTours Editor Installer", "3DTours Editor Installer\3DTours Editor Installer.vdproj", "{9103CA1B-5313-47F0-BC5C-BBC79048B479}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC6D65E1-456D-4FCE-8D03-F4240C92AD89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC6D65E1-456D-4FCE-8D03-F4240C92AD89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC6D65E1-456D-4FCE-8D03-F4240C92AD89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC6D65E1-456D-4FCE-8D03-F4240C92AD89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9103CA1B-5313-47F0-BC5C-BBC79048B479}.Debug|Any CPU.ActiveCfg = Debug
+		{9103CA1B-5313-47F0-BC5C-BBC79048B479}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+# Exported from DeleD's Wavefront OBJ Exporter 1.0
+# Visit http://www.delgine.com for more information.
+newmtl Wall02
+map_Kd sacred\Wall02.jpg
+newmtl Wall06
+map_Kd sacred\Wall06.jpg
+newmtl Wall12
+map_Kd sacred\Wall12.jpg
+newmtl Wood01
+map_Kd sacred\Wood01.jpg

@@ -1,0 +1,8 @@
+F1: Display this guide
+F2: Toggle collision
+F3: Display current camera position
+
+S: Background sound on/off
+ESC: Quit
+
+Press Spacebar to close this guide...

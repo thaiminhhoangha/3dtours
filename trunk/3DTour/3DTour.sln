@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DTour", "3DTour\3DTour.csproj", "{BB743D95-3F78-43DF-8270-3B86C5CE792B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "3DTours Installer", "3DTours Installer\3DTours Installer.vdproj", "{88C6060F-A383-4415-8ECA-40060BAB876B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB743D95-3F78-43DF-8270-3B86C5CE792B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB743D95-3F78-43DF-8270-3B86C5CE792B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB743D95-3F78-43DF-8270-3B86C5CE792B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB743D95-3F78-43DF-8270-3B86C5CE792B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88C6060F-A383-4415-8ECA-40060BAB876B}.Debug|Any CPU.ActiveCfg = Debug
+		{88C6060F-A383-4415-8ECA-40060BAB876B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
